@@ -182,13 +182,6 @@ Der Schüler:innen-Chatbot-Dialog lässt sich in verschiedenen Jahrgangsstufen e
 
 </div>
 
-
-<div style="display: flex; width: 100%; margin: 20px auto; box-shadow: 4px 4px 10px rgba(0, 0, 0, 0.1);">
-  <div style="width: 8px; background: linear-gradient(135deg, #ffccbc, #ffe0b2); border-radius: 10px 0 0 10px;"></div>
-  <div style="padding: 15px; background: white;">
-    ⚠️ <strong>Hinweis:</strong> Das Thema Erkrankungen des Menschen sollte im Unterricht grundsätzlich mit der notwendigen Sensibilität und unter Berücksichtigung der individuellen Voraussetzungen der Lernenden behandelt werden.
-  </div>
-</div>
 <br>
 <h1 style="font-family:Helvetica, Arial, sans-serif; font-size: 20px; color: pink; text-align: center; color: lightblue; opacity: 0.7;">Ende <br>(oder nur der Beginn von etwas Großem? 👋😊)</h1>
 
