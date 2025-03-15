@@ -39,7 +39,7 @@ CC BY 4.0 – https://creativecommons.org/licenses/by/4.0/
 
 <div style="background: linear-gradient(135deg, #f3e5f5, #e1bee7); padding: 15px; border-radius: 10px; text-align: left; box-shadow: 4px 4px 10px rgba(0, 0, 0, 0.1);">
 
-🩺 **Zugriff auf einen Chatbot:** Hier reicht eine ohne Anmeldung Online verfügbare Version aus (z.B. https://chatgpt.com/ 🌐)
+🩺 **Zugriff auf einen Chatbot:** Hier reicht eine online verfügbare Version ohne notwendige Anmeldung aus (z.B. https://chatgpt.com/ 🌐).
 </div>
 
 <div style="display: flex; width: 100%; margin: 20px auto; box-shadow: 4px 4px 10px rgba(0, 0, 0, 0.1);">
