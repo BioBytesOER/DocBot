@@ -145,9 +145,9 @@ Der Schüler:innen-Chatbot-Dialog lässt sich in verschiedenen Jahrgangsstufen e
 
 **Chatbot:** *Ja, das hat er tatsächlich.*
 
-**Schüler:in:** *Ich denke, dass sie von eine Zecke gebissen wurden und unter Borreliose leiden*
+**Schüler:in:** *Ich denke, dass sie von eine Zecke gestochen wurden und unter Borreliose leiden*
 
-**Chatbot:** *Genau! Nach dem Waldbesuch hatte ich eine Zecke am Bein. Bei einem Zeckenbiss werden gelegentlich Borellien übertragen. Dies kann zur Borelliose führen, bei der häufig einige Tage nach dem Zeckenstich ein roter Ring um den Einstich entsteht.*
+**Chatbot:** *Genau! Nach dem Waldbesuch hatte ich eine Zecke am Bein. Bei einem Zeckenstich werden gelegentlich Borrelien übertragen. Dies kann zur Borreliose führen, bei der häufig einige Tage nach dem Zeckenstich ein roter Ring um den Einstich entsteht.*
 </div>
 
 ---
